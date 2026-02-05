@@ -1,0 +1,10 @@
+#Thu Feb 05 13:26:28 GMT 2026
+base.2=/data/user/0/com.tom.rv2ide/files/home/ACSProjects/Kill_BaiXiaolus_family/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.2=classes2.dex
+base.1=/data/user/0/com.tom.rv2ide/files/home/ACSProjects/Kill_BaiXiaolus_family/app/build/intermediates/global_synthetics_dex/release/mergeReleaseGlobalSynthetics/classes.dex
+path.1=classes.dex
+base.0=/data/user/0/com.tom.rv2ide/files/home/ACSProjects/Kill_BaiXiaolus_family/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

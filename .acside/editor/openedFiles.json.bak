@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/data/user/0/com.tom.rv2ide/files/home/ACSProjects/Kill_BaiXiaolus_family/app/src/main/java/com/Whitehairt/killbaixiaolusfamily/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 346,
+          "line": 11
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/data/user/0/com.tom.rv2ide/files/home/ACSProjects/Kill_BaiXiaolus_family/app/src/main/java/com/Whitehairt/killbaixiaolusfamily/MainActivity.java"
+}
